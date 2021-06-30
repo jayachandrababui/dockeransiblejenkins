@@ -25,4 +25,4 @@
         image: "jayachandrababui/jayapp:{{DOCKER_TAG}}"
         state: started
         published_ports:
-          - 0.0.0.0:8080:9001
+          - 0.0.0.0:9001:9001
